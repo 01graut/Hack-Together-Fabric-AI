@@ -1,6 +1,6 @@
 # Hack Together: The Microsoft Fabric Global AI Hack Submission March 2024
 
-## Project : Multilingual Clinical Notes Ingestion 
+## Project : Multilingual Clinical Notes Ingestion using Azure Fabric + Azure OpenAI + Azure CosmosDB MongoDB vCore
 
 ![image](assets/background.jpg)
 `Source: https://openai.com/dall-e-3`
